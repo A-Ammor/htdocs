@@ -11,18 +11,18 @@ createStartButton();
 createShowButton();
 
 function createStartButton() {
-    start.addEventListener("click", function() {
+    start.addEventListener("click", function () {
         showPunten(0);
         puntenTellen = true;
         getalhouders = document.getElementsByClassName("getalhouder");
-        for(var x = 0; x < getalhouders.length; x++) {
-            getalhouders[x].style.color = "white";
+        for (var x = 0; x < getalhouders.length; x++) {
+            getalhouders[x].style.color = "#f3d6d4";
         }
     })
 }
 
 function createShowButton() {
-    show.addEventListener("click", function() {
+    show.addEventListener("click", function () {
         puntenTellen = false;
         aantalClicks = 0;
         showPunten(0);
@@ -49,12 +49,12 @@ function createGetalhouder(i) {
         checkClick(i);
     });
     return getalhouder;
- }
+}
 
 function appendGetalhouders() {
     var i = 0;
-    for (var y = 1; y <= 4; y++) {
-        for (var x = 1; x <= 4; x++) {
+    for (var y = 0; y <= 3; y++) {
+        for (var x = 0; x <= 3; x++) {
             getalhouder = createGetalhouder(i)
             getalhouder.style.left = (x * 150) + "px";
             getalhouder.style.top = (y * 150) + "px";
@@ -63,6 +63,7 @@ function appendGetalhouders() {
         }
     }
 }
+
 function removeGetalhouders() {
     getalhouders = document.getElementsByClassName("getalhouder");
     console.log("Getalhouders voor remove " + getalhouders);
@@ -80,17 +81,17 @@ function showPunten(p) {
 
 function checkClick(i) {
     aantalClicks++;
-    console.log( "getalhouder" + i + " waarde = " + getallen[i] + " aantal clicks = " + aantalClicks);
-    if(getallen[i] == aantalClicks) {
-        if(puntenTellen) {
+    console.log("getalhouder" + i + " waarde = " + getallen[i] + " aantal clicks = " + aantalClicks);
+    if (getallen[i] == aantalClicks) {
+        if (puntenTellen) {
             aantalPunten++;
         }
         showPunten(aantalPunten);
-        getalhouder = document.getElementById("getalhouder"+i);
-        getalhouder.style.color = "red";
+        getalhouder = document.getElementById("getalhouder" + i);
+        getalhouder.style.color = "#d05a52";
     } else {
         getalhouders = document.getElementsByClassName("getalhouder");
-        for(var x = 0; x < getalhouders.length; x++) {
+        for (var x = 0; x < getalhouders.length; x++) {
             getalhouders[x].style.color = "black";
         }
     }
@@ -98,7 +99,7 @@ function checkClick(i) {
 
 function createGetallen() {
     getallen = [];
-    for(var i = 1; i <= 16; i++) {
+    for (var i = 1; i <= 16; i++) {
         getallen.push(i);
     }
     return shuffle(getallen);

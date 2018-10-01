@@ -1,29 +1,95 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+
+}
+
+#loginKnop {
+    width: 50px;
+    float: right;
+}
+
 div.getalhouder {
     position: absolute;
     height: 150px;
     width: 150px;
-    float: left;
+    float: right;
     border: 1px solid black;
+    margin-top: 15%;
+    background-color: #f3d6d4;
+    margin-left: 2.565%;
+    margin-top: 30%;
+
 }
 
 p.getal {
     font-size: 2em;
     text-align: center;
     vertical-align: center;
+    background-color: #f3d6d4;
 }
 
 div#start, div#show, div#punten {
-    color:white;
-    background-color: black;
+    color: black;
+    background-color: #f3d6d4;
     font-size: 2em;
-    padding:20px;
+    padding: 20px;
     display: inline-block;
+    margin-left: 1%;
 }
 
 div#show {
 }
 
+/*Footer*/
 
+/**
+ * Demo Styles
+ */
+
+html {
+    height: 100%;
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    position: relative;
+    margin: 0;
+    padding-bottom: 6rem;
+    min-height: 100%;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.demo {
+    margin: 0 auto;
+    padding-top: 64px;
+    max-width: 640px;
+    width: 94%;
+}
+
+.demo h1 {
+    margin-top: 0;
+}
+
+/**
+ * Footer Styles
+ */
+
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #efefef;
+    text-align: center;
+}
 
 /*Colour theme*/
 .w3-theme-l5 {

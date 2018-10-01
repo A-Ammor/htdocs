@@ -30,8 +30,8 @@ function appendImageholders() {
             var imageholder = createImageholder(i)
             imageholder.style.left = xmove + "px";
             imageholder.style.top = ymove + "px";
-            imageholder.style.backgroundImage = "url('../pictures/ritapuzzle.jpg')";
-            imageholder.style.backgroundPosition = xpos + "%" + ypos + "%" ;
+            imageholder.style.backgroundImage = "url('../img/ritapuzzle.jpg')";
+            imageholder.style.backgroundPosition = xpos + "%" + ypos + "%";
             content.appendChild(imageholder);
             i++;
         }
@@ -51,7 +51,7 @@ function createImageholder(i) {
 function swapImages(i) {
     //is er al een image geselecteerd?
     console.log("ImageSelected: " + imageSelected);
-    if(imageSelected == -1) {
+    if (imageSelected == -1) {
         //no image selected -- set imageselected to i
         imageSelected = i;
     } else {
@@ -61,26 +61,26 @@ function swapImages(i) {
         punten++;
         updateScore();
         //Gewonnen? Plaatje compleet?
-        if(compareArrays(imagepos, properimage)) {
+        if (compareArrays(imagepos, properimage)) {
             document.getElementById("punten").innerHTML = "<h1>Yeah, you nailed it in " + punten + " swaps</h1>";
         }
     }
     //opnieuw background-position instellen voor alle imageholders
     var imageholders = document.getElementsByClassName("imageholder");
-    for(var i = 0; i < imageholders.length; i++) {
+    for (var i = 0; i < imageholders.length; i++) {
         document.getElementById("imageholder" + i).style.backgroundPosition = imagepos[i].x + "% " + imagepos[i].y + "%";
     }
 }
 
 function compareArrays(foo, bar) {
     var compare = 0;
-    for(var a = 0; a < foo.length; a++) {
-        if(foo[a].x == bar[a].x) {
+    for (var a = 0; a < foo.length; a++) {
+        if (foo[a].x == bar[a].x) {
             compare++;
             console.log(foo[a].x + " " + bar[a].x);
         }
     }
-    if(foo.length == compare) {
+    if (foo.length == compare) {
         return true;
     } else {
         return false;
@@ -89,8 +89,8 @@ function compareArrays(foo, bar) {
 
 function createCoordinates() {
     var coordinates = [];
-    for(var a = 0; a <= 4; a++) {
-        for(var b = 0; b <= 4; b++) {
+    for (var a = 0; a <= 4; a++) {
+        for (var b = 0; b <= 4; b++) {
             coordinates.push({x: (b * 25), y: (a * 25)});
         }
     }

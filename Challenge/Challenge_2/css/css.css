@@ -8,6 +8,13 @@
     padding: 5px;
 }
 
+#loginKnop {
+    width: 50px;
+    float: right;
+}
+
+/*mobile version*/
+
 @media all and (min-width: 460px) {
 
     .picture {
@@ -65,6 +72,18 @@ section#picture {
     iframe {
         padding: 10px;
     }
+}
+
+/*Footer*/
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
 }
 
 /*Colour theme*/
