@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b2f4ee6-fd8c-44dd-b878-2e778fe504ff" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="portfolio_short.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TCPDF-master/portfolio_short.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3893">
+              <caret line="229" column="19" lean-forward="false" selection-start-line="229" selection-start-column="19" selection-end-line="229" selection-end-column="19" />
+              <folding>
+                <marker date="1523022297205" expanded="true" signature="437:507" ph="SELECT perio... period" />
+                <marker date="1523022297205" expanded="true" signature="2424:2488" ph="SELECT ${$in... person_cv" />
+                <marker date="1523022297205" expanded="true" signature="3058:3122" ph="SELECT first... person_cv" />
+                <marker date="1523022297205" expanded="true" signature="3658:3793" ph="SELECT name role_profile" />
+                <marker date="1523022297205" expanded="true" signature="4432:4517" ph="SELECT ambit... development_plan_ambition" />
+                <marker date="1523022297205" expanded="true" signature="5624:5714" ph="SELECT telep... person_cv" />
+                <marker date="1523022297205" expanded="true" signature="6131:6261" ph="SELECT telep... person_cv" />
+                <marker date="1523022297205" expanded="true" signature="7685:7894" ph="SELECT ${$na... certificate" />
+                <marker date="1523022297205" expanded="true" signature="9378:9658" ph="SELECT ${$na... person_work" />
+                <marker date="1523022297205" expanded="true" signature="16256:16320" ph="SELECT ${$in... person_cv" />
+                <marker date="1523022297205" expanded="true" signature="16890:16954" ph="SELECT first... person_cv" />
+                <marker date="1523022297205" expanded="true" signature="17489:17624" ph="SELECT name role_profile" />
+                <marker date="1523022297205" expanded="true" signature="18263:18348" ph="SELECT ambit... development_plan_ambition" />
+                <marker date="1523022297205" expanded="true" signature="19455:19545" ph="SELECT telep... person_cv" />
+                <marker date="1523022297205" expanded="true" signature="19962:20092" ph="SELECT telep... person_cv" />
+                <marker date="1523022297205" expanded="true" signature="21516:21725" ph="SELECT ${$na... certificate" />
+                <marker date="1523022297205" expanded="true" signature="23107:23387" ph="SELECT ${$na... person_work" />
+                <marker date="1523022297205" expanded="true" signature="28495:28621" ph="SELECT perio... period" />
+                <marker date="1523022297205" expanded="true" signature="30015:30160" ph="SELECT name role_profile" />
+                <marker date="1523022297205" expanded="true" signature="30910:31083" ph="SELECT disti... person_complexity" />
+                <marker date="1523022297205" expanded="true" signature="32167:32248" ph="SELECT targe... development_plan_target" />
+                <marker date="1523022297205" expanded="true" signature="32962:33059" ph="SELECT plan_... development_plan_plan_of_action" />
+                <marker date="1523022297205" expanded="true" signature="33778:33859" ph="SELECT resul... development_plan_result" />
+                <marker date="1523022297205" expanded="true" signature="34571:34670" ph="SELECT learn... development_plan_learning_moment" />
+                <marker date="1523022297205" expanded="true" signature="36175:36301" ph="SELECT perio... period" />
+                <marker date="1523022297205" expanded="true" signature="37527:37672" ph="SELECT name role_profile" />
+                <marker date="1523022297205" expanded="true" signature="38422:38597" ph="SELECT disti... person_complexity" />
+                <marker date="1523022297205" expanded="true" signature="39681:39762" ph="SELECT targe... development_plan_target" />
+                <marker date="1523022297205" expanded="true" signature="40476:40573" ph="SELECT plan_... development_plan_plan_of_action" />
+                <marker date="1523022297205" expanded="true" signature="41292:41373" ph="SELECT resul... development_plan_result" />
+                <marker date="1523022297205" expanded="true" signature="42085:42184" ph="SELECT learn... development_plan_learning_moment" />
+                <marker date="1523022297205" expanded="true" signature="43343:43396" ph="SELECT first... person_cv" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Db.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Manager/Db.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="skeleton.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Manager/skeleton.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2992">
+              <caret line="176" column="30" lean-forward="false" selection-start-line="176" selection-start-column="30" selection-end-line="176" selection-end-column="30" />
+              <folding>
+                <marker date="1525532096987" expanded="true" signature="291:440" ph="SELECT p.id,... person_cv" />
+                <marker date="1525532096987" expanded="true" signature="7651:8051" ph="SELECT DISTI... givefeedback" />
+                <marker date="1525532096987" expanded="true" signature="8271:8801" ph="SELECT DISTI... person_cv" />
+                <marker date="1525532096987" expanded="true" signature="9419:10003" ph="SELECT DISTI... role_competencecriteria" />
+                <marker date="1525532096987" expanded="true" signature="10931:11287" ph="SELECT p.fir... person_cv" />
+                <marker date="1525532096987" expanded="true" signature="11455:12022" ph="SELECT DISTI... role_competencecriteria" />
+                <marker date="1525532096987" expanded="true" signature="13022:13687" ph="SELECT DISTI... person_cv" />
+                <marker date="1525532096987" expanded="true" signature="14411:14995" ph="SELECT DISTI... role_competencecriteria" />
+                <marker date="1525532096987" expanded="true" signature="15984:16340" ph="SELECT p.fir... person_cv" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Combined.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TCPDF-master/Combined.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+              <folding>
+                <marker date="1527150425072" expanded="true" signature="1115:1185" ph="SELECT perio... period" />
+                <marker date="1527150425072" expanded="true" signature="3130:3206" ph="SELECT ${$fi... person_cv" />
+                <marker date="1527150425072" expanded="true" signature="3682:3746" ph="SELECT first... person_cv" />
+                <marker date="1527150425072" expanded="true" signature="4263:4398" ph="SELECT name role_profile" />
+                <marker date="1527150425072" expanded="true" signature="5037:5122" ph="SELECT ambit... development_plan_ambition" />
+                <marker date="1527150425072" expanded="true" signature="6228:6318" ph="SELECT telep... person_cv" />
+                <marker date="1527150425072" expanded="true" signature="6735:6865" ph="SELECT telep... person_cv" />
+                <marker date="1527150425072" expanded="true" signature="8289:8498" ph="SELECT ${$na... certificate" />
+                <marker date="1527150425072" expanded="true" signature="9245:9403" ph="SELECT ${$sc... person_education" />
+                <marker date="1527150425072" expanded="true" signature="13632:13823" ph="SELECT ${$da... certificate" />
+                <marker date="1527150425072" expanded="true" signature="17648:17828" ph="SELECT DISTI... competences" />
+                <marker date="1527150425072" expanded="true" signature="18159:18407" ph="SELECT ${$le... feedback_rel" />
+                <marker date="1527150425072" expanded="true" signature="18847:19099" ph="SELECT ${$le... feedback_mng_rel" />
+                <marker date="1527150425072" expanded="true" signature="19743:20007" ph="SELECT ${$le... careerpath_evaluationcriteria" />
+                <marker date="1527150425072" expanded="true" signature="21826:21892" ph="SELECT ${$le... config_levels" />
+                <marker date="1527150425072" expanded="true" signature="35231:35352" ph="SELECT ${$la... person_language" />
+                <marker date="1527150425072" expanded="true" signature="57725:57798" ph="SELECT ${$ho... person_hobby" />
+                <marker date="1527150425072" expanded="true" signature="128045:128121" ph="SELECT ${$fi... person_cv" />
+                <marker date="1527150425072" expanded="true" signature="128597:128661" ph="SELECT first... person_cv" />
+                <marker date="1527150425072" expanded="true" signature="129178:129313" ph="SELECT name role_profile" />
+                <marker date="1527150425072" expanded="true" signature="129952:130037" ph="SELECT ambit... development_plan_ambition" />
+                <marker date="1527150425072" expanded="true" signature="131144:131234" ph="SELECT telep... person_cv" />
+                <marker date="1527150425072" expanded="true" signature="131651:131781" ph="SELECT telep... person_cv" />
+                <marker date="1527150425072" expanded="true" signature="133205:133414" ph="SELECT ${$na... certificate" />
+                <marker date="1527150425072" expanded="true" signature="134898:135178" ph="SELECT ${$na... person_work" />
+                <marker date="1527150425072" expanded="true" signature="141803:141879" ph="SELECT ${$fi... person_cv" />
+                <marker date="1527150425072" expanded="true" signature="142355:142419" ph="SELECT first... person_cv" />
+                <marker date="1527150425072" expanded="true" signature="142936:143071" ph="SELECT name role_profile" />
+                <marker date="1527150425072" expanded="true" signature="143710:143795" ph="SELECT ambit... development_plan_ambition" />
+                <marker date="1527150425072" expanded="true" signature="144902:144992" ph="SELECT telep... person_cv" />
+                <marker date="1527150425072" expanded="true" signature="145409:145539" ph="SELECT telep... person_cv" />
+                <marker date="1527150425072" expanded="true" signature="146963:147172" ph="SELECT ${$na... certificate" />
+                <marker date="1527150425072" expanded="true" signature="148554:148834" ph="SELECT ${$na... person_work" />
+                <marker date="1527150425072" expanded="true" signature="153942:154068" ph="SELECT perio... period" />
+                <marker date="1527150425072" expanded="true" signature="155462:155607" ph="SELECT name role_profile" />
+                <marker date="1527150425072" expanded="true" signature="156357:156530" ph="SELECT disti... person_complexity" />
+                <marker date="1527150425072" expanded="true" signature="157614:157695" ph="SELECT targe... development_plan_target" />
+                <marker date="1527150425072" expanded="true" signature="158409:158506" ph="SELECT plan_... development_plan_plan_of_action" />
+                <marker date="1527150425072" expanded="true" signature="159225:159306" ph="SELECT resul... development_plan_result" />
+                <marker date="1527150425072" expanded="true" signature="160020:160119" ph="SELECT learn... development_plan_learning_moment" />
+                <marker date="1527150425072" expanded="true" signature="162651:162777" ph="SELECT perio... period" />
+                <marker date="1527150425072" expanded="true" signature="164003:164148" ph="SELECT name role_profile" />
+                <marker date="1527150425072" expanded="true" signature="164899:165074" ph="SELECT disti... person_complexity" />
+                <marker date="1527150425072" expanded="true" signature="166158:166239" ph="SELECT targe... development_plan_target" />
+                <marker date="1527150425072" expanded="true" signature="166953:167050" ph="SELECT plan_... development_plan_plan_of_action" />
+                <marker date="1527150425072" expanded="true" signature="167769:167850" ph="SELECT resul... development_plan_result" />
+                <marker date="1527150425072" expanded="true" signature="168562:168661" ph="SELECT learn... development_plan_learning_moment" />
+                <marker date="1527150425072" expanded="true" signature="173201:173277" ph="SELECT ${$fi... person_cv" />
+                <marker date="1527150425072" expanded="true" signature="173753:173817" ph="SELECT first... person_cv" />
+                <marker date="1527150425072" expanded="true" signature="174332:174467" ph="SELECT name role_profile" />
+                <marker date="1527150425072" expanded="true" signature="175113:175210" ph="SELECT ambit... development_plan_ambition" />
+                <marker date="1527150425072" expanded="true" signature="176318:176407" ph="SELECT telep... person_cv" />
+                <marker date="1527150425072" expanded="true" signature="176881:177010" ph="SELECT telep... person_cv" />
+                <marker date="1527150425072" expanded="true" signature="178591:178802" ph="SELECT ${$na... certificate" />
+                <marker date="1527150425072" expanded="true" signature="180342:180608" ph="SELECT DISTI... role_profile" />
+                <marker date="1527150425072" expanded="true" signature="182661:182919" ph="SELECT DISTI... role_profile" />
+                <marker date="1527150425072" expanded="true" signature="184922:185180" ph="SELECT DISTI... role_profile" />
+                <marker date="1527150425072" expanded="true" signature="186839:187097" ph="SELECT DISTI... role_profile" />
+                <marker date="1527150425072" expanded="true" signature="188555:189068" ph="SELECT c.com... competences" />
+                <marker date="1527150425072" expanded="true" signature="192556:193001" ph="SELECT Disti... competence_criteria_rel" />
+                <marker date="1527150425072" expanded="true" signature="194659:195172" ph="SELECT c.com... competences" />
+                <marker date="1527150425072" expanded="true" signature="199091:199536" ph="SELECT Disti... careerpath_evaluationcriteria" />
+                <marker date="1527150425072" expanded="true" signature="202984:203470" ph="SELECT c.com... competences" />
+                <marker date="1527150425072" expanded="true" signature="202984:203497" ph="SELECT c.com... competences" />
+                <marker date="1527150425072" expanded="true" signature="206046:206491" ph="SELECT Disti... careerpath_evaluationcriteria" />
+                <marker date="1527150425072" expanded="true" signature="207354:207840" ph="SELECT c.com... competences" />
+                <marker date="1527150425072" expanded="true" signature="207354:207867" ph="SELECT c.com... competences" />
+                <marker date="1527150425072" expanded="true" signature="211839:212284" ph="SELECT Disti... careerpath_evaluationcriteria" />
+                <marker date="1527150425072" expanded="true" signature="217026:217471" ph="SELECT Disti... careerpath_evaluationcriteria" />
+                <marker date="1527150425072" expanded="true" signature="221473:221897" ph="SELECT c.com... careerpath_evaluationcriteria" />
+                <marker date="1527150425072" expanded="true" signature="227050:227495" ph="SELECT Disti... careerpath_evaluationcriteria" />
+                <marker date="1527150425072" expanded="true" signature="228257:228310" ph="SELECT first... person_cv" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Manager/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+              <folding>
+                <marker date="1520881312921" expanded="true" signature="332:385" ph="SELECT depar... department" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login-request.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Manager/login-request.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding>
+                <marker date="1520881455165" expanded="true" signature="262:380" ph="SELECT mng_u... department" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logout.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Manager/logout.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="change-person.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Manager/change-person.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ref1</find>
+      <find>id[0]</find>
+      <find>id[2]</find>
+      <find>id[3]</find>
+      <find>id[1]</find>
+      <find>aantal_</find>
+      <find>aantal_ref</find>
+      <find>&gt; 2</find>
+      <find>$i = 0; $i &lt; 5</find>
+      <find>$i = 0;</find>
+      <find>$aantal_referenties &gt; 3</find>
+      <find>$i = 0; $i &lt; $aantal_ref</find>
+      <find>$i = 0; $i &lt; $aantal</find>
+      <find>$i = 0; $i &lt; $aantalCompetence; $i++</find>
+      <find>prefix</find>
+      <find>$levelsref3</find>
+      <find>test</find>
+      <find>tabbel</find>
+      <find>$number</find>
+      <find>$i = 0; $i &lt; count($avera</find>
+      <find>$i = 0; $i &lt; count($average_score); $i++</find>
+      <find>on_level</find>
+      <find>zelf</find>
+      <find>implode</find>
+      <find>levelsref2</find>
+      <find>levelsref1</find>
+      <find>$row['level'</find>
+      <find>.jpeg</find>
+      <find>extended</find>
+      <find>extended ==</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TCPDF-master/examples/Db.php" />
+        <option value="$USER_HOME$/Desktop/TCPDF-master/portfolio.php" />
+        <option value="$PROJECT_DIR$/portfolio_extended.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa7208.30333/portfolio.php" />
+        <option value="$PROJECT_DIR$/TCPDF-master/portfolio.php" />
+        <option value="$PROJECT_DIR$/TCPDF-master/portfolio2.php" />
+        <option value="$PROJECT_DIR$/TCPDF-master/Db.php" />
+        <option value="$PROJECT_DIR$/TCPDF-master/portfolio_short.php" />
+        <option value="$PROJECT_DIR$/TCPDF-master/portfolio_extended.php" />
+        <option value="$PROJECT_DIR$/Manager/Db.php" />
+        <option value="$PROJECT_DIR$/Manager/login.php" />
+        <option value="$PROJECT_DIR$/Manager/login-request.php" />
+        <option value="$PROJECT_DIR$/Manager/skeleton.php" />
+        <option value="$PROJECT_DIR$/TCPDF-master/Combined.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Stage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stage" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Stage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Stage" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Manager" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TCPDF-master" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Stage\TCPDF-master" />
+      <recent name="C:\Users\aammo\AppData\Local\Temp\Rar$DIa7208.30333" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b2f4ee6-fd8c-44dd-b878-2e778fe504ff" name="Default" comment="" />
+      <created>1518005564459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518005564459</updated>
+      <workItem from="1518005565720" duration="10322000" />
+      <workItem from="1518117029449" duration="8063000" />
+      <workItem from="1518172222651" duration="6913000" />
+      <workItem from="1518426266369" duration="25511000" />
+      <workItem from="1518600044997" duration="22062000" />
+      <workItem from="1518687817319" duration="722000" />
+      <workItem from="1518698053182" duration="3471000" />
+      <workItem from="1518709091299" duration="8509000" />
+      <workItem from="1518773211123" duration="22316000" />
+      <workItem from="1519031494900" duration="6667000" />
+      <workItem from="1519118512506" duration="10079000" />
+      <workItem from="1519293372736" duration="655000" />
+      <workItem from="1519301675301" duration="369000" />
+      <workItem from="1519377481417" duration="18627000" />
+      <workItem from="1519639734930" duration="7522000" />
+      <workItem from="1519660898429" duration="3547000" />
+      <workItem from="1519723268348" duration="8649000" />
+      <workItem from="1519811066965" duration="16326000" />
+      <workItem from="1519856543878" duration="598000" />
+      <workItem from="1519908482429" duration="2270000" />
+      <workItem from="1520003879305" duration="711000" />
+      <workItem from="1520089282970" duration="1457000" />
+      <workItem from="1520170802284" duration="4453000" />
+      <workItem from="1520243130249" duration="7535000" />
+      <workItem from="1520336321909" duration="2101000" />
+      <workItem from="1520414049675" duration="3361000" />
+      <workItem from="1520512141831" duration="811000" />
+      <workItem from="1520612025509" duration="1024000" />
+      <workItem from="1520848287733" duration="6097000" />
+      <workItem from="1520880918337" duration="1165000" />
+      <workItem from="1520934707709" duration="4636000" />
+      <workItem from="1526502648085" duration="293000" />
+      <workItem from="1526657933934" duration="13536000" />
+      <workItem from="1526975412586" duration="2613000" />
+      <workItem from="1527072740622" duration="4263000" />
+      <workItem from="1527077985872" duration="3382000" />
+      <workItem from="1527145442111" duration="1244000" />
+      <workItem from="1527840883720" duration="87000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="241967000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.058333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/tcpdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4148">
+          <caret line="244" column="0" lean-forward="false" selection-start-line="244" selection-start-column="0" selection-end-line="244" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/portfolio.php" />
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/tcpdf_import.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="49" column="3" lean-forward="false" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/Db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/examples/example_002.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="35" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/tcpdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4148">
+          <caret line="244" column="0" lean-forward="false" selection-start-line="244" selection-start-column="0" selection-end-line="244" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/portfolio.php" />
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/tcpdf_import.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="49" column="3" lean-forward="false" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/Db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/examples/example_002.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="35" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/tcpdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4148">
+          <caret line="244" column="0" lean-forward="false" selection-start-line="244" selection-start-column="0" selection-end-line="244" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/portfolio.php" />
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/tcpdf_import.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="49" column="3" lean-forward="false" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/Db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/examples/example_002.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="35" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/tcpdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4148">
+          <caret line="244" column="0" lean-forward="false" selection-start-line="244" selection-start-column="0" selection-end-line="244" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/portfolio.php" />
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/tcpdf_import.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="49" column="3" lean-forward="false" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/Db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/examples/example_002.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="35" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/tcpdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4148">
+          <caret line="244" column="0" lean-forward="false" selection-start-line="244" selection-start-column="0" selection-end-line="244" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/portfolio.php" />
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/tcpdf_import.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="49" column="3" lean-forward="false" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/examples/example_002.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="35" column="36" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/tcpdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4148">
+          <caret line="244" column="0" lean-forward="false" selection-start-line="244" selection-start-column="0" selection-end-line="244" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/portfolio.php" />
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/examples/tcpdf_include.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="36" column="16" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/examples/example_001.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-768">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/examples/Db.php" />
+    <entry file="file://$USER_HOME$/Desktop/TCPDF-master/fixed maar niet goed/TCPDF-master/portfolio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4046">
+          <caret line="44" column="45" lean-forward="true" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio_extended.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7208.31025/portfolio.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7208.30333/portfolio.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa7208.30333/portfolio2.php" />
+    <entry file="file://$USER_HOME$/Desktop/TCPDF-master/portfolio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1683">
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/portfolio2.php" />
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/portfolio.php" />
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/tcpdf_import.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="49" column="3" lean-forward="false" selection-start-line="49" selection-start-column="3" selection-end-line="49" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/examples/example_002.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="35" column="1" lean-forward="false" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/tcpdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="244" column="0" lean-forward="false" selection-start-line="244" selection-start-column="0" selection-end-line="244" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/Db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/portfolio_extended.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Manager/Db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="23" lean-forward="false" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Manager/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <marker date="1520881312921" expanded="true" signature="332:385" ph="SELECT depar... department" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Manager/change-person.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Manager/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Manager/login-request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <marker date="1520881455165" expanded="true" signature="262:380" ph="SELECT mng_u... department" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Manager/skeleton.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2992">
+          <caret line="176" column="30" lean-forward="false" selection-start-line="176" selection-start-column="30" selection-end-line="176" selection-end-column="30" />
+          <folding>
+            <marker date="1525532096987" expanded="true" signature="291:440" ph="SELECT p.id,... person_cv" />
+            <marker date="1525532096987" expanded="true" signature="7651:8051" ph="SELECT DISTI... givefeedback" />
+            <marker date="1525532096987" expanded="true" signature="8271:8801" ph="SELECT DISTI... person_cv" />
+            <marker date="1525532096987" expanded="true" signature="9419:10003" ph="SELECT DISTI... role_competencecriteria" />
+            <marker date="1525532096987" expanded="true" signature="10931:11287" ph="SELECT p.fir... person_cv" />
+            <marker date="1525532096987" expanded="true" signature="11455:12022" ph="SELECT DISTI... role_competencecriteria" />
+            <marker date="1525532096987" expanded="true" signature="13022:13687" ph="SELECT DISTI... person_cv" />
+            <marker date="1525532096987" expanded="true" signature="14411:14995" ph="SELECT DISTI... role_competencecriteria" />
+            <marker date="1525532096987" expanded="true" signature="15984:16340" ph="SELECT p.fir... person_cv" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa12364.29842/Combinedback.php" />
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/portfolio_short.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3893">
+          <caret line="229" column="19" lean-forward="false" selection-start-line="229" selection-start-column="19" selection-end-line="229" selection-end-column="19" />
+          <folding>
+            <marker date="1523022297205" expanded="true" signature="437:507" ph="SELECT perio... period" />
+            <marker date="1523022297205" expanded="true" signature="2424:2488" ph="SELECT ${$in... person_cv" />
+            <marker date="1523022297205" expanded="true" signature="3058:3122" ph="SELECT first... person_cv" />
+            <marker date="1523022297205" expanded="true" signature="3658:3793" ph="SELECT name role_profile" />
+            <marker date="1523022297205" expanded="true" signature="4432:4517" ph="SELECT ambit... development_plan_ambition" />
+            <marker date="1523022297205" expanded="true" signature="5624:5714" ph="SELECT telep... person_cv" />
+            <marker date="1523022297205" expanded="true" signature="6131:6261" ph="SELECT telep... person_cv" />
+            <marker date="1523022297205" expanded="true" signature="7685:7894" ph="SELECT ${$na... certificate" />
+            <marker date="1523022297205" expanded="true" signature="9378:9658" ph="SELECT ${$na... person_work" />
+            <marker date="1523022297205" expanded="true" signature="16256:16320" ph="SELECT ${$in... person_cv" />
+            <marker date="1523022297205" expanded="true" signature="16890:16954" ph="SELECT first... person_cv" />
+            <marker date="1523022297205" expanded="true" signature="17489:17624" ph="SELECT name role_profile" />
+            <marker date="1523022297205" expanded="true" signature="18263:18348" ph="SELECT ambit... development_plan_ambition" />
+            <marker date="1523022297205" expanded="true" signature="19455:19545" ph="SELECT telep... person_cv" />
+            <marker date="1523022297205" expanded="true" signature="19962:20092" ph="SELECT telep... person_cv" />
+            <marker date="1523022297205" expanded="true" signature="21516:21725" ph="SELECT ${$na... certificate" />
+            <marker date="1523022297205" expanded="true" signature="23107:23387" ph="SELECT ${$na... person_work" />
+            <marker date="1523022297205" expanded="true" signature="28495:28621" ph="SELECT perio... period" />
+            <marker date="1523022297205" expanded="true" signature="30015:30160" ph="SELECT name role_profile" />
+            <marker date="1523022297205" expanded="true" signature="30910:31083" ph="SELECT disti... person_complexity" />
+            <marker date="1523022297205" expanded="true" signature="32167:32248" ph="SELECT targe... development_plan_target" />
+            <marker date="1523022297205" expanded="true" signature="32962:33059" ph="SELECT plan_... development_plan_plan_of_action" />
+            <marker date="1523022297205" expanded="true" signature="33778:33859" ph="SELECT resul... development_plan_result" />
+            <marker date="1523022297205" expanded="true" signature="34571:34670" ph="SELECT learn... development_plan_learning_moment" />
+            <marker date="1523022297205" expanded="true" signature="36175:36301" ph="SELECT perio... period" />
+            <marker date="1523022297205" expanded="true" signature="37527:37672" ph="SELECT name role_profile" />
+            <marker date="1523022297205" expanded="true" signature="38422:38597" ph="SELECT disti... person_complexity" />
+            <marker date="1523022297205" expanded="true" signature="39681:39762" ph="SELECT targe... development_plan_target" />
+            <marker date="1523022297205" expanded="true" signature="40476:40573" ph="SELECT plan_... development_plan_plan_of_action" />
+            <marker date="1523022297205" expanded="true" signature="41292:41373" ph="SELECT resul... development_plan_result" />
+            <marker date="1523022297205" expanded="true" signature="42085:42184" ph="SELECT learn... development_plan_learning_moment" />
+            <marker date="1523022297205" expanded="true" signature="43343:43396" ph="SELECT first... person_cv" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCPDF-master/Combined.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <marker date="1527150425072" expanded="true" signature="1115:1185" ph="SELECT perio... period" />
+            <marker date="1527150425072" expanded="true" signature="3130:3206" ph="SELECT ${$fi... person_cv" />
+            <marker date="1527150425072" expanded="true" signature="3682:3746" ph="SELECT first... person_cv" />
+            <marker date="1527150425072" expanded="true" signature="4263:4398" ph="SELECT name role_profile" />
+            <marker date="1527150425072" expanded="true" signature="5037:5122" ph="SELECT ambit... development_plan_ambition" />
+            <marker date="1527150425072" expanded="true" signature="6228:6318" ph="SELECT telep... person_cv" />
+            <marker date="1527150425072" expanded="true" signature="6735:6865" ph="SELECT telep... person_cv" />
+            <marker date="1527150425072" expanded="true" signature="8289:8498" ph="SELECT ${$na... certificate" />
+            <marker date="1527150425072" expanded="true" signature="9245:9403" ph="SELECT ${$sc... person_education" />
+            <marker date="1527150425072" expanded="true" signature="13632:13823" ph="SELECT ${$da... certificate" />
+            <marker date="1527150425072" expanded="true" signature="17648:17828" ph="SELECT DISTI... competences" />
+            <marker date="1527150425072" expanded="true" signature="18159:18407" ph="SELECT ${$le... feedback_rel" />
+            <marker date="1527150425072" expanded="true" signature="18847:19099" ph="SELECT ${$le... feedback_mng_rel" />
+            <marker date="1527150425072" expanded="true" signature="19743:20007" ph="SELECT ${$le... careerpath_evaluationcriteria" />
+            <marker date="1527150425072" expanded="true" signature="21826:21892" ph="SELECT ${$le... config_levels" />
+            <marker date="1527150425072" expanded="true" signature="35231:35352" ph="SELECT ${$la... person_language" />
+            <marker date="1527150425072" expanded="true" signature="57725:57798" ph="SELECT ${$ho... person_hobby" />
+            <marker date="1527150425072" expanded="true" signature="128045:128121" ph="SELECT ${$fi... person_cv" />
+            <marker date="1527150425072" expanded="true" signature="128597:128661" ph="SELECT first... person_cv" />
+            <marker date="1527150425072" expanded="true" signature="129178:129313" ph="SELECT name role_profile" />
+            <marker date="1527150425072" expanded="true" signature="129952:130037" ph="SELECT ambit... development_plan_ambition" />
+            <marker date="1527150425072" expanded="true" signature="131144:131234" ph="SELECT telep... person_cv" />
+            <marker date="1527150425072" expanded="true" signature="131651:131781" ph="SELECT telep... person_cv" />
+            <marker date="1527150425072" expanded="true" signature="133205:133414" ph="SELECT ${$na... certificate" />
+            <marker date="1527150425072" expanded="true" signature="134898:135178" ph="SELECT ${$na... person_work" />
+            <marker date="1527150425072" expanded="true" signature="141803:141879" ph="SELECT ${$fi... person_cv" />
+            <marker date="1527150425072" expanded="true" signature="142355:142419" ph="SELECT first... person_cv" />
+            <marker date="1527150425072" expanded="true" signature="142936:143071" ph="SELECT name role_profile" />
+            <marker date="1527150425072" expanded="true" signature="143710:143795" ph="SELECT ambit... development_plan_ambition" />
+            <marker date="1527150425072" expanded="true" signature="144902:144992" ph="SELECT telep... person_cv" />
+            <marker date="1527150425072" expanded="true" signature="145409:145539" ph="SELECT telep... person_cv" />
+            <marker date="1527150425072" expanded="true" signature="146963:147172" ph="SELECT ${$na... certificate" />
+            <marker date="1527150425072" expanded="true" signature="148554:148834" ph="SELECT ${$na... person_work" />
+            <marker date="1527150425072" expanded="true" signature="153942:154068" ph="SELECT perio... period" />
+            <marker date="1527150425072" expanded="true" signature="155462:155607" ph="SELECT name role_profile" />
+            <marker date="1527150425072" expanded="true" signature="156357:156530" ph="SELECT disti... person_complexity" />
+            <marker date="1527150425072" expanded="true" signature="157614:157695" ph="SELECT targe... development_plan_target" />
+            <marker date="1527150425072" expanded="true" signature="158409:158506" ph="SELECT plan_... development_plan_plan_of_action" />
+            <marker date="1527150425072" expanded="true" signature="159225:159306" ph="SELECT resul... development_plan_result" />
+            <marker date="1527150425072" expanded="true" signature="160020:160119" ph="SELECT learn... development_plan_learning_moment" />
+            <marker date="1527150425072" expanded="true" signature="162651:162777" ph="SELECT perio... period" />
+            <marker date="1527150425072" expanded="true" signature="164003:164148" ph="SELECT name role_profile" />
+            <marker date="1527150425072" expanded="true" signature="164899:165074" ph="SELECT disti... person_complexity" />
+            <marker date="1527150425072" expanded="true" signature="166158:166239" ph="SELECT targe... development_plan_target" />
+            <marker date="1527150425072" expanded="true" signature="166953:167050" ph="SELECT plan_... development_plan_plan_of_action" />
+            <marker date="1527150425072" expanded="true" signature="167769:167850" ph="SELECT resul... development_plan_result" />
+            <marker date="1527150425072" expanded="true" signature="168562:168661" ph="SELECT learn... development_plan_learning_moment" />
+            <marker date="1527150425072" expanded="true" signature="173201:173277" ph="SELECT ${$fi... person_cv" />
+            <marker date="1527150425072" expanded="true" signature="173753:173817" ph="SELECT first... person_cv" />
+            <marker date="1527150425072" expanded="true" signature="174332:174467" ph="SELECT name role_profile" />
+            <marker date="1527150425072" expanded="true" signature="175113:175210" ph="SELECT ambit... development_plan_ambition" />
+            <marker date="1527150425072" expanded="true" signature="176318:176407" ph="SELECT telep... person_cv" />
+            <marker date="1527150425072" expanded="true" signature="176881:177010" ph="SELECT telep... person_cv" />
+            <marker date="1527150425072" expanded="true" signature="178591:178802" ph="SELECT ${$na... certificate" />
+            <marker date="1527150425072" expanded="true" signature="180342:180608" ph="SELECT DISTI... role_profile" />
+            <marker date="1527150425072" expanded="true" signature="182661:182919" ph="SELECT DISTI... role_profile" />
+            <marker date="1527150425072" expanded="true" signature="184922:185180" ph="SELECT DISTI... role_profile" />
+            <marker date="1527150425072" expanded="true" signature="186839:187097" ph="SELECT DISTI... role_profile" />
+            <marker date="1527150425072" expanded="true" signature="188555:189068" ph="SELECT c.com... competences" />
+            <marker date="1527150425072" expanded="true" signature="192556:193001" ph="SELECT Disti... competence_criteria_rel" />
+            <marker date="1527150425072" expanded="true" signature="194659:195172" ph="SELECT c.com... competences" />
+            <marker date="1527150425072" expanded="true" signature="199091:199536" ph="SELECT Disti... careerpath_evaluationcriteria" />
+            <marker date="1527150425072" expanded="true" signature="202984:203470" ph="SELECT c.com... competences" />
+            <marker date="1527150425072" expanded="true" signature="202984:203497" ph="SELECT c.com... competences" />
+            <marker date="1527150425072" expanded="true" signature="206046:206491" ph="SELECT Disti... careerpath_evaluationcriteria" />
+            <marker date="1527150425072" expanded="true" signature="207354:207840" ph="SELECT c.com... competences" />
+            <marker date="1527150425072" expanded="true" signature="207354:207867" ph="SELECT c.com... competences" />
+            <marker date="1527150425072" expanded="true" signature="211839:212284" ph="SELECT Disti... careerpath_evaluationcriteria" />
+            <marker date="1527150425072" expanded="true" signature="217026:217471" ph="SELECT Disti... careerpath_evaluationcriteria" />
+            <marker date="1527150425072" expanded="true" signature="221473:221897" ph="SELECT c.com... careerpath_evaluationcriteria" />
+            <marker date="1527150425072" expanded="true" signature="227050:227495" ph="SELECT Disti... careerpath_evaluationcriteria" />
+            <marker date="1527150425072" expanded="true" signature="228257:228310" ph="SELECT first... person_cv" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

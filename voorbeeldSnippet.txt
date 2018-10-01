@@ -1,0 +1,12 @@
+<snippet>
+	<content>
+		<![CDATA[
+//hier komt de tekst. bijv:
+<form action="$1" method="$2">
+	$3
+</form>
+]]>
+	</content>
+	<tabTrigger>form</tabTrigger>
+	<scope>text.html</scope>
+</snippet>

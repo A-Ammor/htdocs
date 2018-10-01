@@ -1,0 +1,21 @@
+.jumbotron {
+	background-image: url('../img/candy_head.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1, h2, h3, {
+	font-family: 'Freckle Face', cursive;
+}
+
+body, p , a {
+	font-family: 'Alegreya', serif;
+}
+
+.navbar {
+	margin-bottom: 0px;
+}
+
+label {
+	font-weight: normal;
+}

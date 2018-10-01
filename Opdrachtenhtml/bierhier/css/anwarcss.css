@@ -1,0 +1,274 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500,600,700);
+/* -- ik heb de link hier gedaan ipv in html, kan allebei */
+
+ul{
+  padding: 0px;
+  margin: 0px;
+}
+
+li {
+  background-color: rgb(128,128,128);
+  padding: 10px;
+  padding-left: 20px;
+  border-bottom: 1px solid white;
+}
+
+li a {
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+@media all and (min-width: 580px) {
+  ul {
+    background-color: rgb(128,128,128);
+    border-bottom: none;
+  }
+
+  li {
+    display: inline-block;
+    border:none;
+  }
+}
+
+/* Einde navigatie bar */
+
+#wrapper {
+  min-height: 100%;
+  padding: 7.5px;
+}
+
+html, body {
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  color: rgb(220,106,94);
+  font-weight: 600;
+  font-size: 22px;
+  padding-left: 30px;
+}
+
+h2 {
+ text-align: center;
+}
+
+h3 {
+  padding-bottom: 10px;
+}
+
+img {
+  display: block;
+  width: 60%;
+  margin: auto;
+}
+
+div.route {
+  padding-left: 40px;
+  padding-right: 50px;
+  padding-bottom: 30px;
+}
+
+iframe {
+  width: 100%;
+  height: 300px;
+  border: 0;
+}
+
+#formid {
+  padding-left: 40px;
+  padding-bottom: 40px;
+}
+
+textarea {
+  height: 100px;
+  width: 200px;
+}
+
+/* -- Sections en footers -- */
+
+section#contact {
+  padding-top: 10px;
+}
+
+section.adres {
+  padding-bottom: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+footer {
+  background-color: rgb(128,128,128);
+  color: white;
+  min-height: 20%;
+  clear: both;
+  padding: 20px;
+}
+
+@media all and (min-width: 400px) {
+  img {
+    width: 40%;
+  }
+  p {
+    width: 40%;
+    margin: auto;
+  }
+  #formid {
+    text-align: center;
+    margin-right: 50px;
+  }
+  section.adres {
+    text-align: center;
+  }
+}
+
+@media all and (min-width: 740px) {
+  section.adres {
+    width: 30%;
+    display: inline-block;
+    position: relative;
+    padding-bottom: 100px;
+    float: left;
+    margin-right: 85px;
+    text-align: left;
+  }
+  #formid {
+   padding-bottom: 300px;
+   margin-top: 20px;
+   text-align: left;
+   margin-right: 55px;
+ }
+ img, article {
+  display: inline-block;
+  width: 100%;
+}
+p {
+  width: 100%;
+  margin-left: 0px;
+}
+section.adres {
+  float: left;
+}
+.artikelrico {
+  width: 20%;
+  float: left;
+  margin-left: 30px;
+}
+.artikeldave {
+  width: 20%;
+  float: left;
+  margin-left: 0px;
+  margin-left: 30px;
+
+}
+.artikelharjit {
+  width: 20%;
+  float: left;
+  margin-left: 30px;
+}
+.artikelanwar {
+  width: 20%;
+  float: left;
+  margin-left: 60px;
+  margin-left: 30px;
+}
+
+@media all and (min-width: 920px) {
+  div.route {
+    float: left;
+    width: 38%;
+    padding-bottom: 0px;
+    padding-right: 0px;
+  }
+
+  #div{
+    margin-top: 0px;
+  }
+  #formid {
+    padding: none;
+    padding-top: 350px;
+    margin-left: 0px;
+    float: none;
+    padding-bottom: 120px;
+  }
+
+  h3 {
+    margin-top: 0px;
+  }
+
+  section.adres {
+    width: 50%;
+    padding-right: 20px; 
+    float: right;
+    margin-right: 0px;
+  }
+
+  textarea {
+    height: 100px;
+    width: 300px;
+  }
+
+  img {
+    display: inline-block;
+  }
+
+  section.adres {
+    float: left;
+  }
+  .artikelrico {
+    width: 30%;
+    float: right;
+    margin-right: 80px;
+  }
+  .artikeldave {
+    width: 30%;
+    float: left;
+    margin-left: 80px;
+  }
+  .artikelharjit {
+    width: 30%;
+    float: right;
+    margin-right: 80px;
+  }
+  .artikelanwar {
+    width: 30%;
+    float: left;
+    margin-left: 80px;
+  }
+  h2 {
+   text-align: left;
+ }
+}
+
+@media all and (min-width: 1200px) {
+  div.route {
+    width: 50%;
+  }
+
+  section.adres {
+    padding-bottom: 20px;
+    width: 40%;
+    float: right;
+    padding-right: 20px;
+  }
+  #formid {
+    float: none;
+    padding-top: : 10px;
+    padding-bottom: 100px;
+  }
+
+  img {
+    width: 75%
+  }
+
+  p {
+    width: 75%
+  }
+  .artikelanwar {
+    margin-left: 120px;
+  }
+  .artikeldave {
+    margin-left: 120px;
+  }
+}

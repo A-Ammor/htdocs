@@ -1,0 +1,16 @@
+application: groepsproject1anwar
+version: 1
+runtime: php55
+api_version: 1
+threadsafe: yes
+
+handlers:
+- url: /(.+\.(html|css|gif|png|jpg|svg))$
+  static_files: \1
+  upload: .+\.(html|css|gif|png|jpg|svg)$
+  application_readable: true
+
+- url: /.*
+  static_files: contact.html
+  upload: contact.html
+  application_readable: true

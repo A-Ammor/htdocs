@@ -1,0 +1,127 @@
+<!--
+* naam: Anwar Ammor
+* groep: MMVAOO6A
+* datum: 28-06-2017
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Anwar's Candies</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="css/styles.css">
+<link href="https://fonts.googleapis.com/css?family=Alegreya|Freckle+Face" rel="stylesheet">
+</head>
+<body>
+
+<!-- Fixed navbar -->
+      <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="index.html">Candy Shop</a>
+          </div>
+          <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="index.html">Home</a></li>
+              <li><a href="webshop.html">Webshop</a></li>
+              <li class="active"><a href="winkelwagen.html">Winkelwagen</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+      </nav>
+
+<div class="jumbotron">
+	<div class="container">
+		<h1>Candyholics</h1>
+		<p>It's Candy But It's Not.</p> 
+	</div> <!-- einde container -->
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <img class="img-responsive img-thumbnail" src="img/smarties.jpg" alt="smarties">
+    </div> <!-- einde col -->
+    <div class="col-md-3">
+      <h3>Smarties</h3>
+      <h3>Prijs per 100 gram: &euro; <span id="smarties_price">1.50</span></h3>
+    </div> <!-- einde col -->
+    <div class="col-md-2">
+      <input type="number" id="smarties_aantal" class="form-cotrol" name="prijs" value="0" min="0">
+    </div> <!-- einde col -->
+    <div class="col-md-1">
+      <p id="smarties_totaal">0.00</p>
+    </div> <!-- einde col -->
+  </div> <!-- einde row -->
+  <div class="row">
+    <div class="col-md-4">
+      <img class="img-responsive img-thumbnail" src="img/candy6.jpg" alt="Kerst Stokjes">
+    </div> <!-- einde col -->
+    <div class="col-md-3">
+      <h3>Kerst Stokjes</h3>
+      <h3>Prijs per 100 gram: &euro; <span id="kerststokjes_price">1.55</span></h3>
+    </div> <!-- einde col -->
+    <div class="col-md-2">
+      <input type="number" id="kerststokjes_aantal" class="form-cotrol" name="prijs" value="0" min="0">
+    </div> <!-- einde col -->
+    <div class="col-md-1">
+      <p id="kerststokjes_totaal">0.00</p>
+    </div> <!-- einde col -->
+  </div> <!-- einde row -->
+  <div class="row">
+    <div class="col-md-4">
+      <img class="img-responsive img-thumbnail" src="img/candy7.jpg" alt="Super Candy Star">
+    </div> <!-- einde col -->
+    <div class="col-md-3">
+      <h3>Super Candy Star</h3>
+      <h3>Prijs per 100 gram: &euro; <span id="supercandy_price">1.45</span></h3>
+    </div> <!-- einde col -->
+    <div class="col-md-2">
+      <input type="number" id="supercandy_aantal" class="form-cotrol" name="prijs" value="0" min="0">
+    </div> <!-- einde col -->
+    <div class="col-md-1">
+      <p id="supercandy_totaal">0.00</p>
+    </div> <!-- einde col -->
+  </div> <!-- einde row -->
+  <div class="row">
+  <div class="col-md-7">
+    <input type="checkbox" name="snoepemmer" id="snoepemmer" value="1.50"> In feestelijke snoepemmer (&euro; 1,50)
+  </div> <!-- einde col -->
+  </div> <!-- einde row -->
+  <div class="row">
+  <div class="col-md-7">
+    <input type="checkbox" name="tandenborstel" id="tandenborstel" value="24.95"> <label id="tandenborstel">Met elektrische tandenborstel (&euro; 24,95)</label>
+  </div> <!-- einde col -->
+  </div> <!-- einde row -->
+  <br>
+  <div class="radio">
+    <label><input type="radio" name="optradio" checked="checked">Zelf ophalen (Gratis!)</label>
+  </div>
+  <div class="radio">
+    <label><input type="radio" name="optradio" id="radiobutton">Laten bezorgen(&euro; 4,95)</label>
+  </div>
+    <div class="row">
+    <div class="col-md-7 text-right">
+      <button type="button" id="totaalknop" class="btn btn-default">Bereken totaal</button>
+    </div> <!-- einde col -->
+    <div class="col-md-2 text-right">
+      <p id="totaalprijs">Totaalprijs!</p>
+    </div> <!-- einde col -->
+  </div> <!-- einde row -->
+</div> <!-- einde container --> 
+</div>
+<script src="js/winkelwagen.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,151 @@
+.bootstrap-select > .btn-default.no-bottom-border {
+    border-bottom:0 !important;
+}
+
+.picker-style {
+    background-color:white;
+    margin-top:11px;
+    overflow: visible;
+    display:flex;
+    height:45px;
+}
+
+.pt-body {
+    margin-left: 25px;
+}
+
+.m-t-min-10 {
+    margin-top:-10px;
+}
+
+.m-t-min-5 {
+    margin-top:-5px;
+}
+
+.m-l-40 {
+    margin-left: 40px;
+}
+
+.no-margin-right {
+    margin-right: 0 !important;
+}
+
+div.col-sm-6 > h4 {
+    color:white;
+}
+
+div.col-sm-12 > h4 {
+    color:white;
+}
+
+div.p-20 > a > div.col-xs-6 > h4 {
+    color:white;
+}
+
+.below-level {
+    color:#db2929 !important;
+}
+
+.on-level {
+    color:#36af47 !important;
+}
+
+.above-level {
+    color:#0087CB !important;
+}
+
+.progress-bar-danger {
+    background-color:#db2929;
+}
+
+.progress-bar-success {
+    background-color:#36af47;
+}
+
+.progress-bar-info {
+    background-color:#0087CB;
+}
+
+.primary-blue {
+    background-color:#0087CB;
+}
+
+.primary-red {
+    background-color:#db2929;
+}
+
+.primary-green {
+    background-color:#36af47;
+}
+
+.primary-none {
+    background-color: #a1a6af;
+}
+
+.score {
+    width:140px;
+}
+
+.score-level {
+    width:35px;
+}
+
+.feedback-comment {
+    background-color: white;
+    border: solid #e0dfdf 1px;
+    border-radius: 3px;
+    padding: 10px;
+    min-height: 100px;
+}
+
+.custom-justify {
+    text-align: justify;
+    margin-left: 10px;
+}
+
+.custom-justify:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+
+.custom-justify span {
+    display: inline-block;
+}
+
+.feedback {
+    border-right: 1px solid #eaeaea;
+}
+
+.close {
+    float: right;
+    position:absolute;
+    font-size: 3rem;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-shadow: 0 1px 0 #fff;
+    opacity: .5;
+    right:15px;
+    top:16px;
+}
+
+.dev-item {
+    margin-bottom:0 !important;
+}
+
+.feedback-icon {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.progress-image {
+    z-index: 1;
+    position: absolute;
+    margin-top:5px;
+    margin-left:5px;
+}
+
+.relative-cell {
+    position:relative;
+}
