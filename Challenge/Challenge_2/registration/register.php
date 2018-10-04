@@ -1,0 +1,68 @@
+<?php include('server.php') ?>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration system PHP and MySQL</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<nav class="w3-theme-l4 navbar navbar-inverse navbar-static-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header pull-left">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                    data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <?php
+        $image = "../img/sign-in.png";
+        $width = "";
+        $height = "";
+
+        echo '<a href="http://localhost/challenge/challenge_2/registration/login.php"><img src="' . $image . '" id="loginKnop" alt="login icon" style=width:"' . $width . 'px;height:' . $height . 'px;"></a>';
+        ?>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li><a href="index.php">Home</a></li>
+                <li><a href="docs/imageswap.php">Picturepuzzle</a></li>
+                <li><a href="docs/getallenrij.php">Getallenrij</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+<div class="header">
+    <h2>Register</h2>
+</div>
+
+<form method="post" action="register.php">
+    <?php include('errors.php'); ?>
+    <div class="input-group">
+        <label>Username</label>
+        <input type="text" name="username" value="<?php echo $username; ?>">
+    </div>
+    <div class="input-group">
+        <label>Email</label>
+        <input type="email" name="email" value="<?php echo $email; ?>">
+    </div>
+    <div class="input-group">
+        <label>Password</label>
+        <input type="password" name="password_1">
+    </div>
+    <div class="input-group">
+        <label>Confirm password</label>
+        <input type="password" name="password_2">
+    </div>
+    <div class="input-group">
+        <button type="submit" class="btn" name="reg_user">Register</button>
+    </div>
+    <p>
+        Already a member? <a href="login.php">Sign in</a>
+    </p>
+</form>
+</body>
+</html>

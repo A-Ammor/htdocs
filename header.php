@@ -92,7 +92,7 @@
 					<div class="dropdown">
 						<button class="dropbtn">Challenge</button>
 						<div class="dropdown-content">
-							<li><a href="challenge/challenge_2/index.html">Challenge 2</a></li>
+							<li><a href="challenge/challenge_2/index.php">Challenge 2</a></li>
 							<li><a href="#">Link twee</a></li>
 							<li><a href="#">Link drie</a></li>
 							<li><a href="#">Link vier</a></li>
