@@ -78,6 +78,7 @@
                     document.getElementById("imgClickAndChange").src = "http://localhost/challenge/challenge_2/img/ritamobileversion_4.jpg";
                 }
             }
+
         </script>
         <section id="nieuws">
             <h3>Nieuws</h3>
