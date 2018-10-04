@@ -22,18 +22,19 @@ body {
     width: 30%;
     margin: 50px auto 0px;
     color: white;
-    background: #5F9EA0;
+    background: #f3d6d4;
     text-align: center;
-    border: 1px solid #B0C4DE;
+    border: 1px solid #f3d6d4;
     border-bottom: none;
     border-radius: 10px 10px 0px 0px;
     padding: 20px;
+
 }
 form, .content {
     width: 30%;
     margin: 0px auto;
     padding: 20px;
-    border: 1px solid #B0C4DE;
+    border: 1px solid #f3d6d4;
     background: white;
     border-radius: 0px 0px 10px 10px;
 }
@@ -56,8 +57,7 @@ form, .content {
 .btn {
     padding: 10px;
     font-size: 15px;
-    color: white;
-    background: #5F9EA0;
+    background: #f3d6d4;
     border: none;
     border-radius: 5px;
 }
@@ -65,7 +65,7 @@ form, .content {
     width: 92%;
     margin: 0px auto;
     padding: 10px;
-    border: 1px solid #a94442;
+    border: 1px solid #d05a52;
     color: #a94442;
     background: #f2dede;
     border-radius: 5px;
@@ -78,7 +78,7 @@ form, .content {
     margin-bottom: 20px;
 }
 
-/*Coloor theme*/
+/*Color theme*/
 .w3-theme-l5 {
     color: #000 !important;
     background-color: #fbf3f2 !important

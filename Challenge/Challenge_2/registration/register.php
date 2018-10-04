@@ -4,6 +4,10 @@
 <head>
     <title>Registration system PHP and MySQL</title>
     <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 </head>
 <body>
 <nav class="w3-theme-l4 navbar navbar-inverse navbar-static-top" role="navigation">
@@ -28,9 +32,9 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-                <li><a href="index.php">Home</a></li>
-                <li><a href="docs/imageswap.php">Picturepuzzle</a></li>
-                <li><a href="docs/getallenrij.php">Getallenrij</a></li>
+                <li><a href="../index.php">Home</a></li>
+                <li><a href="../docs/imageswap.php">Picturepuzzle</a></li>
+                <li><a href="../docs/getallenrij.php">Getallenrij</a></li>
             </ul>
         </div>
     </div>

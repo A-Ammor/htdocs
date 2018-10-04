@@ -29,8 +29,13 @@
                 <span class="icon-bar"></span>
             </button>
         </div>
-        <img id="loginKnop" src="../img/sign-in.png" alt="login icon">
+        <?php
+        $image = "../img/sign-in.png";
+        $width = "";
+        $height = "";
 
+        echo '<a href="http://localhost/challenge/challenge_2/registration/login.php"><img src="' . $image . '" id="loginKnop" alt="login icon" style=width:"' . $width . 'px;height:' . $height . 'px;"></a>';
+        ?>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav" class="w3-theme-d5">

@@ -32,9 +32,9 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-                <li><a href="index.php">Home</a></li>
-                <li><a href="docs/imageswap.php">Picturepuzzle</a></li>
-                <li><a href="docs/getallenrij.php">Getallenrij</a></li>
+                <li><a href="../index.php">Home</a></li>
+                <li><a href="../docs/imageswap.php">Picturepuzzle</a></li>
+                <li><a href="../docs/getallenrij.php">Getallenrij</a></li>
             </ul>
         </div>
     </div>

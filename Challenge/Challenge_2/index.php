@@ -13,6 +13,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 
 
     <title>Rita Hayworth</title>
@@ -42,6 +43,8 @@
         echo '<a href="http://localhost/challenge/challenge_2/registration/login.php"><img src="' . $image . '" id="loginKnop" alt="login icon" style=width:"' . $width . 'px;height:' . $height . 'px;"></a>';
         ?>
 
+
+
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
@@ -57,7 +60,7 @@
     <div class="row">
         <div class="picture2">
             <img class="picture" alt="" src="http://localhost/challenge/challenge_2/img/ritamobileversion_1.jpg"
-                 height="100%" width="100%" id="imgClickAndChange" onclick="changeImage()"/>
+                 height="300px" width="300px" id="imgClickAndChange" onclick="changeImage()"/>
         </div>
 
         <div class="picture">
