@@ -4,6 +4,11 @@
 
 }
 
+#loginInfo {
+    margin-right: 50px;
+    margin-top: 16px;
+}
+
 #loginKnop {
     width: 50px;
     float: right;

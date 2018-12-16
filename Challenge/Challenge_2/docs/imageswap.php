@@ -1,3 +1,14 @@
+<?php session_start();
+if (!isset($_SESSION['username'])) {
+    $_SESSION['msg'] = "You must log in first";
+}
+if (isset($_GET['logout'])) {
+    session_destroy();
+    unset($_SESSION['username']);
+    header("location: ../index.php");
+}
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -42,6 +53,13 @@
                 <li><a href="../index.php">Home</a></li>
                 <li><a href="imageswap.php">Picturepuzzle</a></li>
                 <li><a href="getallenrij.php">Getallenrij</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+
+
+                <?php  if (isset($_SESSION['username'])) : ?>
+                    <li><p id="loginInfo">Welcome <strong><?php echo $_SESSION['username']; ?></strong> <a href="index.php?logout='1'" style="color: red;">logout</a></p></li>
+                <?php endif ?>
             </ul>
         </div>
     </div>

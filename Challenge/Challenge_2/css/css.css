@@ -4,13 +4,18 @@
 
 }
 
+#loginKnop {
+    width: 50px;
+    float: right;
+}
+
 .picture {
     padding: 5px;
 }
 
-#loginKnop {
-    width: 50px;
-    float: right;
+#loginInfo {
+    margin-right: 50px;
+    margin-top: 16px;
 }
 
 #nieuws {

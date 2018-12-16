@@ -3,6 +3,17 @@
 * groep: 6c
 * datum: 28-9-2018
 -->
+
+<?php session_start();
+if (!isset($_SESSION['username'])) {
+    $_SESSION['msg'] = "You must log in first";
+}
+if (isset($_GET['logout'])) {
+    session_destroy();
+    unset($_SESSION['username']);
+    header("location: index.php");
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -36,6 +47,7 @@
             </button>
         </div>
         <?php
+
         $image = "img/sign-in.png";
         $width = "";
         $height = "";
@@ -52,7 +64,15 @@
                 <li><a href="docs/imageswap.php">Picturepuzzle</a></li>
                 <li><a href="docs/getallenrij.php">Getallenrij</a></li>
             </ul>
+            <ul class="nav navbar-nav navbar-right">
+
+
+                <?php  if (isset($_SESSION['username'])) : ?>
+                <li><p id="loginInfo">Welcome <strong><?php echo $_SESSION['username']; ?></strong> <a href="index.php?logout='1'" style="color: red;">logout</a></p></li>
+                <?php endif ?>
+            </ul>
         </div>
+
     </div>
 </nav>
 
@@ -60,7 +80,7 @@
     <div class="row">
         <div class="picture2">
             <img class="picture" alt="" src="http://localhost/challenge/challenge_2/img/ritamobileversion_1.jpg"
-                 height="300px" width="300px" id="imgClickAndChange" onclick="changeImage()"/>
+                 height="100%" width="100%" id="imgClickAndChange" onclick="changeImage()"/>
         </div>
 
         <div class="picture">

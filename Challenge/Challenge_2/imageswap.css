@@ -9,6 +9,10 @@
     float: right;
 }
 
+#loginInfo {
+    margin-right: 50px;
+    margin-top: 16px;
+}
 .footer {
     position: relative;
     left: 0;
